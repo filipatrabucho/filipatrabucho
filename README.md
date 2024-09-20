@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🤟 I'm Ana and from Portugal<br>💻 I currently work with laravel and reactjs<br>🌍 I like traveling, getting to know new cultures<br>⛺ Outdoor person, camping, sailing<br>💥 Always looking to get out of my comfort zone and learn from experience<br>🎮 Gamer in my spare free time</h5>
+<p align="left">🤟 I'm Ana and from Portugal<br>💻 I currently work with laravel and reactjs<br>🌍 I like traveling, getting to know new cultures<br>⛺ Outdoor person, camping, sailing<br>💥 Always looking to get out of my comfort zone and learn from experience<br>🎮 Gamer in my spare free time</p>
 
 ###
 
