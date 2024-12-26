@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome! 👋
 
 Hi there! I'm Ana, a **Full-Stack Developer** passionate about creating elegant solutions for complex problems.  
 I specialize in **ReactJS**, **Laravel**, **Git**, **MySQL**, and **SQL**, and I love building scalable, user-friendly web applications.
