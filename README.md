@@ -1,59 +1,50 @@
-# Welcome! 👋  
+# 👩‍💻 Ana Trabucho
 
-Hi there! I'm **Ana**, a **Full-Stack Developer** passionate about crafting elegant solutions for complex problems.  
-I specialize in **ReactJS**, **Laravel**, **Git**, **MySQL**, and **SQL**, and I love building scalable, user-friendly web applications.  
-
----
-
-## 🌟 About Me  
-
-- 🌍 From **Portugal**, enjoying coding and online gaming in my free time.  
-- 🎮 **Gaming Enthusiast**: I run a gaming community on Discord called **Club Party Server**!  
-- 💻 **Programming**: Skilled in both **front-end** and **back-end** development.  
-- 🎯 Always striving to **learn and improve** my skills.  
+**Full-Stack Developer** | ReactJS • Laravel • Node.js  
+📍 Almada, Portugal | 🇵🇹 🇫🇷 🇬🇧 Trilingual | AI & Automation Enthusiast
 
 ---
 
-## 🔧 Skills & Tools  
+### 🚀 About Me
 
-**Frontend:**  
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+I'm a full-stack developer passionate about building real, impactful solutions.  
+From prototypes to production, I love getting involved in every part of the process — **React, Laravel, Node, CI/CD, server setups, and even enterprise integrations like Primavera WebAPI**.  
+I learn fast, adapt quickly, and thrive on ownership — started as an intern, took over key projects, and even mentored new devs along the way.
 
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+I'm also into AI and automation, using tools like **ChatGPT** and **GitHub Copilot** daily to boost productivity and code quality.
 
 ---
 
-## 📚 What I'm Working On  
+### 💼 What I've Built
 
-- 🎮 Developing **gaming communities** and **e-commerce platforms**.  
-- 🐾 Creating applications that connect users with services like **pet care**.  
-- ✨ Building **responsive, dynamic, and user-friendly** UIs.  
-
----
-
-## 🌐 Let's Connect  
-
-Feel free to check out my projects and get in touch! Collaboration and community mean everything to me. 😊  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatrabucho/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)  
+- 🔄 Full integration with **Primavera WebAPI (Cegid)** to generate invoices and PDFs directly from internal systems
+- 🧠 **Score-App**: a performance evaluation platform with banking stage calculations and a custom React interface
+- 🔐 Migrated authentication from **Firebase to Laravel Sanctum** for better backend control and security
+- 🔁 **Converted a legacy C# system to Laravel**, modernizing the codebase and improving maintainability and dev efficiency
+- ⚙️ Automated deployment workflows with **CI/CD, PM2, nginx/Apache, and SSL configuration**
+- 🤝 Mentored interns and provided continuous tech support to team members
 
 ---
 
-Thanks for stopping by, and happy coding! 🚀
+### 🛠️ Tech Stack & Skills
+
+**Frontend**: ReactJS, Redux, Figma, Responsive Design  
+**Backend**: Laravel, Node.js, Express  
+**Databases**: MySQL, SQL Server, MariaDB, MongoDB  
+**DevOps**: Linux, nginx, Apache, PM2, CI/CD  
+**Other**: Git, GitHub, Firebase, Laravel Sanctum, ChatGPT, Copilot  
+**Languages**: Portuguese 🇵🇹 | English 🇬🇧 | French 🇫🇷
+
+---
+
+### 📫 Contact
+
+📍 Almada, Setúbal  
+🔗 [LinkedIn](https://www.linkedin.com/in/filipatrabucho) | [GitHub](https://github.com/filipatrabucho)
+
+---
+
+### ⚡ Fun fact
+
+I live with my boyfriend and our **three dogs**, love being organized, and I’m always looking to grow — whether it's learning new tech or solving real-world problems.  
+If the project sounds tough, that’s exactly where I want to be. Let’s go. 🚀
