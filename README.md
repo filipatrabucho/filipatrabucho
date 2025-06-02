@@ -46,5 +46,5 @@ I'm also into AI and automation, using tools like **ChatGPT** and **GitHub Copil
 
 ### ⚡ Fun fact
 
-I live with my boyfriend and our **three dogs**, love being organized, and I’m always looking to grow — whether it's learning new tech or solving real-world problems.  
+I’m always looking to grow — whether it's learning new tech or solving real-world problems.  
 If the project sounds tough, that’s exactly where I want to be. Let’s go. 🚀
