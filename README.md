@@ -1,50 +1,78 @@
-# 👩‍💻 Ana Trabucho
+<h1 align="center">👩‍💻 Ana Trabucho</h1>
 
-**Full-Stack Developer** | ReactJS • Laravel • Node.js  
-📍 Almada, Portugal | 🇵🇹 🇫🇷 🇬🇧 Trilingual | AI & Automation Enthusiast
-
----
-
-### 🚀 About Me
-
-I'm a full-stack developer passionate about building real, impactful solutions.  
-From prototypes to production, I love getting involved in every part of the process — **React, Laravel, Node, CI/CD, server setups, and even enterprise integrations like Primavera WebAPI**.  
-I learn fast, adapt quickly, and thrive on ownership — started as an intern, took over key projects, and even mentored new devs along the way.
-
-I'm also into AI and automation, using tools like **ChatGPT** and **GitHub Copilot** daily to boost productivity and code quality.
+<p align="center">
+  <b>Full-Stack Developer</b> | ReactJS • Laravel • Node.js  
+  <br/>
+  📍 Almada, Portugal · 🇵🇹 🇬🇧 🇫🇷 Trilingual · 💡 AI & Automation Enthusiast
+</p>
 
 ---
 
-### 💼 What I've Built
+## 🚀 About Me
 
-- 🔄 Full integration with **Primavera WebAPI (Cegid)** to generate invoices and PDFs directly from internal systems
-- 🧠 **Score-App**: a performance evaluation platform with banking stage calculations and a custom React interface
-- 🔐 Migrated authentication from **Firebase to Laravel Sanctum** for better backend control and security
-- 🔁 **Converted a legacy C# system to Laravel**, modernizing the codebase and improving maintainability and dev efficiency
-- ⚙️ Automated deployment workflows with **CI/CD, PM2, nginx/Apache, and SSL configuration**
+Hi! I'm Ana — a full-stack developer who loves turning complex ideas into real, impactful solutions.  
+I thrive in every stage of development: **frontend, backend, DevOps, and systems integration**.  
+I’ve built tools from scratch, led features into production, and even migrated legacy systems.  
+Currently working with **Laravel + React**, but I’m always learning — and always delivering.  
+
+💬 I use **ChatGPT** and **Copilot** daily to supercharge my development process.  
+🧠 Fast learner · Adaptable · Problem-solver
+
+---
+
+## 💼 Highlight Projects
+
+- 🔄 **Primavera WebAPI Integration** – Invoice automation with direct PDF generation
+- 🧠 **Score-App** – Performance evaluation tool with banking logic & stage calculation
+- 🔐 **Firebase → Laravel Sanctum** migration for improved authentication and security
+- 🔁 **Converted a legacy C# system to Laravel** — cleaner, faster, maintainable codebase
+- ⚙️ Full deployment flow with **CI/CD, PM2, NGINX/Apache, SSL certs**
 - 🤝 Mentored interns and provided continuous tech support to team members
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-**Frontend**: ReactJS, Redux, Figma, Responsive Design  
-**Backend**: Laravel, Node.js, Express  
-**Databases**: MySQL, SQL Server, MariaDB, MongoDB  
-**DevOps**: Linux, nginx, Apache, PM2, CI/CD  
-**Other**: Git, GitHub, Firebase, Laravel Sanctum, ChatGPT, Copilot  
-**Languages**: Portuguese 🇵🇹 | English 🇬🇧 | French 🇫🇷
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Backend**  
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps / Tools**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-### 📫 Contact
+## 🌍 Languages
 
-📍 Almada, Setúbal  
-🔗 [LinkedIn](https://www.linkedin.com/in/filipatrabucho) | [GitHub](https://github.com/filipatrabucho)
+- 🇵🇹 Portuguese — Native  
+- 🇬🇧 English — Fluent  
+- 🇫🇷 French — Intermediate  
 
 ---
 
-### ⚡ Fun fact
+## 📫 Contact Me
 
-I’m always looking to grow — whether it's learning new tech or solving real-world problems.  
-If the project sounds tough, that’s exactly where I want to be. Let’s go. 🚀
+- 📧 filipatrabucho@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/filipatrabucho)  
+- 💻 [GitHub](https://github.com/filipatrabucho)  
+
+---
+
+## ⚡ Fun Fact
+
+I'm passionate about clean, maintainable code and automating boring stuff.  
+If the challenge sounds hard, that’s exactly where I want to be. 🚀
