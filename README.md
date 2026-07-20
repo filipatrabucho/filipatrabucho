@@ -1,95 +1,67 @@
 <!-- HEADER -->
-<h1 align="center">👩‍💻 Ana Trabucho</h1>
-<h3 align="center">Full-Stack Developer | Automation Addict | AI-Curious</h3>
+<h1 align="center">Ana Trabucho</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
-  📍 Almada, Portugal  
-  🌍 Multilingual (PT · EN · FR)  
-  ⚡ Mission: Build smarter systems, automate what slows us down
+  Almada, Portugal · PT / EN / FR
 </p>
 
 ---
 
-## 🚀 About Me
+## Sobre mim
 
-Hey! I’m **Ana**, a full-stack developer who loves clean backends, slick frontends,  
-and automation that saves whole teams hours of manual pain.
+Sou desenvolvedora full-stack, especializada em backends Laravel e frontends React, com foco em sistemas que precisam de escalar e de se manter fiáveis em produção. Trabalho sobretudo com APIs, automação de processos de negócio e integração entre serviços.
 
-Things that make me hype:
-✔️ Well-designed Laravel APIs  
-✔️ React UIs powered by Redux-Saga or RTK  
-✔️ Data-driven workflows and async jobs  
-✔️ Deploy pipelines that *don’t* break in prod  
+Interesso-me particularmente por:
+- Arquitetura de APIs e organização de lógica de negócio (repository pattern, serviços)
+- Frontends React com gestão de estado assíncrono (Redux-Saga / RTK)
+- Automação de workflows e processamento em background
+- Pipelines de deploy estáveis e previsíveis
 
-My superpower? Turning messy business logic into scalable systems that just work ⚙️
+## Stack técnica
 
----
+**Backend:** Laravel · Node.js · PHP  
+**Frontend:** React · Redux-Saga · Redux Toolkit  
+**Infraestrutura:** Docker · PM2 · NGINX · CI/CD  
+**Bases de dados:** MySQL / SQL  
+**Outras áreas:** autenticação e permissões, webhooks, automação de documentos (PDF), workers assíncronos
 
-## 🛠️ Tech Stack
+## Projetos em destaque
 
-**Core:** Laravel · React · Redux-Saga · Node.js  
-**Infra:** Docker · PM2 · NGINX · CI/CD  
-**Databases:** MySQL · raw SQL (yes, I enjoy it)  
-**Other stuff I vibe with:** Webhooks · Auth · PDF/Docs automation · Background workers
+**Automação de faturação (integração Primavera)**  
+Pipeline completo de faturação — chamadas à API, persistência em base de dados, geração de PDF e entrega final — sem intervenção manual.
 
-In short — I love building stuff end-to-end that doesn’t fall apart when things scale 😉
+**Motor de scoring financeiro**  
+Sistema de regras com centenas de condições, recálculo diário, histórico de estados e reporting associado.
 
----
+**Migração de autenticação (Firebase → Laravel Sanctum)**  
+Reescrita completa do sistema de autenticação: tokens, permissões, recuperação de password e envio de emails.
 
-## 🏆 Highlight Projects
+**Modernização de sistema legado (C# → Laravel)**  
+Reconstrução de módulos críticos com arquitetura atualizada e otimização de base de dados.
 
-- 🔄 **Primavera API Automation**  
-  Full invoice pipeline → API → DB → PDF → final delivery, zero manual work
+**Deploy e operações**  
+Automação de CI/CD, logging, gestão de workers, PM2, SSL e rotinas de backup.
 
-- 🧠 **Finance Scoring + Stage Logic Engine**  
-  Hundreds of conditions, daily recalculations, historics, reporting hooks — pure logic beast
+**Mentoria**  
+Acompanhamento de novos elementos da equipa (juniores e estagiários) na adaptação à stack e às práticas do projeto.
 
-- 🔐 **Auth Migration — Firebase → Laravel Sanctum**  
-  Full rewrite: token auth, permissions, password reset flow, and mail delivery
+## Idiomas
 
-- 💥 **Legacy System Rebuild (C# → Laravel)**  
-  Rebuilt critical modules with modern architecture and DB optimization
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | Fluente |
+| Francês | Intermédio |
 
-- 🚢 **Deployment & Ops Flow**  
-  CI/CD automation, logging, workers, PM2, SSL, backup routines — smooth dev→prod lifecycle
+## Contacto
 
-- 🤝 **Mentoring & Team Onboarding**  
-  Helped juniors + interns get up to speed and understand the stack fast
-
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇵🇹 Portuguese | Native |
-| 🇬🇧 English | Fluent |
-| 🇫🇷 French | Intermediate |
-
----
-
-## 📬 Let’s Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/filipatrabucho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/filipatrabucho" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I automate everything —  
-because humans deserve better things to do than repetitive tasks 🚀
+[LinkedIn](https://www.linkedin.com/in/filipatrabucho) · [GitHub](https://github.com/filipatrabucho)
