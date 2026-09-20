@@ -16,45 +16,48 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou desenvolvedora full-stack, especializada em backends Laravel e frontends React, com foco em sistemas que precisam de escalar e de se manter fiáveis em produção. Trabalho sobretudo com APIs, automação de processos de negócio e integração entre serviços.
+I'm a full-stack developer specializing in Laravel backends and React frontends, focused on systems that need to scale and stay reliable in production. I work primarily on APIs, business process automation, and service integration.
 
-Interesso-me particularmente por:
-- Arquitetura de APIs e organização de lógica de negócio (repository pattern, serviços)
-- Frontends React com gestão de estado assíncrono (Redux-Saga / RTK)
-- Automação de workflows e processamento em background
-- Pipelines de deploy estáveis e previsíveis
+I'm particularly interested in:
 
-## Stack técnica
+- API architecture and business logic organization (repository pattern, service layers)
+- React frontends with async state management (Redux-Saga / RTK)
+- Workflow automation and background processing
+- Stable, predictable deployment pipelines
 
-**Backend:** Laravel · Node.js · PHP  
-**Frontend:** React · Redux-Saga · Redux Toolkit  
-**Infraestrutura:** Docker · PM2 · NGINX · CI/CD  
-**Bases de dados:** MySQL / SQL  
-**Outras áreas:** autenticação e permissões, webhooks, automação de documentos (PDF), workers assíncronos
+## Tech Stack
 
-## Projetos em destaque
+**Backend:** Laravel · Node.js · PHP
+**Frontend:** React · Redux-Saga · Redux Toolkit
+**Infrastructure:** Docker · PM2 · NGINX · CI/CD
+**Databases:** MySQL / SQL
+**Other:** Authentication & authorization, webhooks, document automation (PDF), asynchronous workers
 
-**Automação de faturação (integração Primavera)**  
-Pipeline completo de faturação — chamadas à API, persistência em base de dados, geração de PDF e entrega final — sem intervenção manual.
+## Featured Projects
 
-**Motor de scoring financeiro**  
-Sistema de regras com centenas de condições, recálculo diário, histórico de estados e reporting associado.
+**Invoicing Automation (Primavera Integration)**
+End-to-end invoicing pipeline — API calls, database persistence, PDF generation, and final delivery — with zero manual intervention.
 
-**Migração de autenticação (Firebase → Laravel Sanctum)**  
-Reescrita completa do sistema de autenticação: tokens, permissões, recuperação de password e envio de emails.
+**Financial Scoring Engine**
+Rules engine handling hundreds of conditions, with daily recalculation, state history, and associated reporting.
 
-**Modernização de sistema legado (C# → Laravel)**  
-Reconstrução de módulos críticos com arquitetura atualizada e otimização de base de dados.
+**Authentication Migration (Firebase → Laravel Sanctum)**
+Full rewrite of the authentication system: tokens, permissions, password recovery, and email delivery.
 
-**Deploy e operações**  
-Automação de CI/CD, logging, gestão de workers, PM2, SSL e rotinas de backup.
+**Legacy System Modernization (C# → Laravel)**
+Rebuilt critical modules with an updated architecture and optimized database design.
 
-**Mentoria**  
-Acompanhamento de novos elementos da equipa (juniores e estagiários) na adaptação à stack e às práticas do projeto.
+## Deployment & Operations
 
-## Idiomas
+CI/CD automation, logging, worker management, PM2, SSL, and backup routines.
+
+## Mentoring
+
+Onboarding new team members (juniors and interns) into the stack and project practices.
+
+## Languages
 
 | Idioma | Nível |
 |---|---|
